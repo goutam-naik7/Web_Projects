@@ -6,10 +6,25 @@
 body{
     height:100vh;
     display:flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background: #211f24;
 }
+
+h2{
+    margin-top: 50px;
+    font-family: "Segoe UI", sans-serif;
+    color:#fff;
+    font-weight: 600;
+    font-size :50px; 
+    font-style:oblique; 
+    transition: 0.5s;
+    transition-property: background, box-shadow ;
+    text-transform:capitalize;
+}
+
+
 
 .datetime{
     color:#fff;
