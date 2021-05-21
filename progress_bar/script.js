@@ -1,6 +1,6 @@
 const halfCircles = document.querySelectorAll(".half-circle");
 const halfCircleTop = document.querySelector(".half-circle-top");
-const progressBarCircle = document.querySelector(".progressbar-circle");
+const progressBarCircle = document.querySelector(".progressba   r-circle");
 
 document.addEventListener("scroll", () => {
   const pageViewportHeight = window.innerHeight;
