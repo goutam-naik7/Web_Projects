@@ -2,7 +2,9 @@
 https://goutam-naik7.github.io/Web_Projects/blog_website
 
 https://goutam-naik7.github.io/Web_Projects/clock
+
 https://goutam-naik7.github.io/Web_Projects/background_video
+
 https://goutam-naik7.github.io/Web_Projects/dealsOfDay
 
 https://goutam-naik7.github.io/Web_Projects/image_gallery
